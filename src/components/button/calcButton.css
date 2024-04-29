@@ -1,0 +1,24 @@
+.btn {
+    padding: 1rem;
+    border-radius: 5px;
+    border: solid 1px black;
+}
+
+.btn-zero {
+    grid-column-start: 1;
+    grid-column-end: 3;
+}
+
+.btn-num {
+    background-color: darkgray;
+}
+
+.btn-op {
+    background-color: orangered;
+    border: solid 1px darkred;
+}
+
+.btn-mod {
+    background-color: rgb(108, 108, 108);
+    border: 1;
+}
